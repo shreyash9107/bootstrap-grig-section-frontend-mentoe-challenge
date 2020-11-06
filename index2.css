@@ -1,0 +1,55 @@
+body{
+    margin:40px;
+    background-color: hsl(0, 0%, 81%);
+}
+#first{
+    background-color: hsl(263, 55%, 52%) ;
+    color: seashell;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+#second{
+    border-radius: 20px;
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    padding: 10px;
+    
+}
+#third{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+#forth{
+    background-color:hsl(219, 29%, 14%) ;
+    color: seashell;
+    border-radius: 20px;
+    padding: 10px;
+}
+#last{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.name{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.image{
+    border-radius: 50%;
+}
+.degree{
+  font-weight: bold;
+}
+.darkLine{
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;  
+}
+.content{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+} 
